@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+p.resumen {
+    font-style: italic;
+}
+
+p.contenido {
+    font-weight: bold;
+}
