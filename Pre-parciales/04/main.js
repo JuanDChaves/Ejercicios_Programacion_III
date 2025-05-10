@@ -1,0 +1,1 @@
+cargarTareas(), agregarTarea(), marcarComoCompletada(), eliminarTarea()
